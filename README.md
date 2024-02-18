@@ -11,7 +11,7 @@ A tool originally written in Python, capable of searching through FiveM dump fol
 To deploy this project run
 
 ```bash
-  Just Run the .exe
+  Just Run the .exe ( AS Administrator ) - Else the file wont open. ! 
 ```
 
 
