@@ -1,7 +1,7 @@
 
 # 💻 FemDumper - Made by Femscripts 💻
 
-A tool originally written in Python, capable of searching through FiveM dump folders to find useful informations.
+A tool written in Python, capable of searching through FiveM dump folders to find useful informations.
 
 
 
@@ -11,19 +11,19 @@ A tool originally written in Python, capable of searching through FiveM dump fol
 To deploy this project run
 
 ```bash
-  Just Run the .exe ( AS Administrator ) - Else the file wont open. ! 
+  pip install -r requirements.txt
 ```
 
 
 ## ❓ FAQ ❓
 
-#### ❓" My Antivirus says its a Virus ? Why ? Is it a Virus? "❓
+#### ❓" Is this Everything ? "❓
 
-No, obviusly not, The Sourcecode is Protected with an Obfuscation Algorythm, What makes Antiviruses maybe detecting it as a Virus
+No, its not, its an Free Version of the Official FemDumper.
 
-#### ❓ "Can i get the source?" ❓
-Not at the moment. As this tool will get updated with the Private Api of "femscripts.de" but maybe i will release a open source version of the Tool. 
-
+#### ❓ "What is the Full Version" ❓
+ 
+The Full Version of the Tool will be released soon, it will include the FemScripts.de API to bring better results.
 
 ## ✨Features✨
 
