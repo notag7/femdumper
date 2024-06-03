@@ -1,5 +1,5 @@
 
-# 💻 FemDumper - Made by Femscripts 💻
+# 💻 FemDumper - 💻
 
 A tool written in Python, capable of searching through FiveM dump folders to find useful informations.
 
